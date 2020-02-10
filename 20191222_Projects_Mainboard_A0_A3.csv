@@ -1,0 +1,29 @@
+Item,Description,Part,References,Quantity,P_Value,Manufacturer,P_Digikey
+1,"Polarized Capacitor, 56uF, 35V, 20%, TH",870055674006.00,C509 C510 C511 C512,4,56uF,Wurth Electronics Inc.,
+2,"Ceramic Capacitor, 0.1uF, 50V, X7R, 0603",C0603C104K5RACAUTO,C101 C102 C103 C104 C105 C106 C202 C301 C302 C303 C304 C305 C402 C403 C501 C502 C503 C504 C505 C506 C507,21,0.1uF,KEMET,
+3,"Ceramic Capacitor, 1uF, 50V, X5R, 0603",CL10A105KB8NNNC,C401 C404,2,1uF,Samsung Electro-Mechanics,
+4,"Ceramic Capacitor, 10uF, 16V, X6S, 0603",CL10X106MO8NRNC,C405,1,10uF,Samsung Electro-Mechanics,
+5,"Ceramic Capacitor, 10uF, 25V, X5R, 0603",ZRB18AR61E106ME01L,C201,1,10uF,Murata Electronics North America,
+6,"Diode, TVS, 30VWM, DO-214AC, SMA",824501301,D501,1,TVS,Wurth Electronics Inc.,
+7,"Inductor, 6.8uH, 2.8A, 0.075R, LPS6235",LPS6235-682MR_0,L401,1,6.8uH,Coilcraft,
+8,"Inductor, 4.7uH, 2.5A, 0.038R, MSS5131",MSS5131-472ML,L201,1,4.7uH,Coilcraft,
+9,"Connector, 2POS, 2.5mm, 12A, Phoenix Contact",1792863,P515,1,2POS,Phoenix Contact,
+10,"Connector, 2POS, 2.5mm, TE Connectivity AMP Connectors, 2-1971798",2-1971798-2,P204 P205 P206 P207 P208 P209,6,2POS,TE Connectivity AMP Connectors,A116626-ND
+11,"Connector, 2POS, 2.50mm, TE Connectivity AMP Connectors, Yellow, 2-1971798",2-1971798-4,P301 P302 P303 P304 P305,5,2POS,TE Connectivity AMP Connectors,A116628-ND
+12,"Connector, 5POS, 2.50mm, 3A, TE Connectivity, 2.50MM",5-1971798-2,P501 P502 P503 P504,4,5POS,TE Connectivity AMP Connectors,A116690-ND
+13,"Connector, 5POS, 2.50mm, 3A, TE Connectivity, 2.50MM",5-1971798-3,P511 P512 P513 P514,4,5POS,TE Connectivity AMP Connectors,A116691-ND
+14,"Header, 6-Pin, 3A, 2.54mm",M20-7910642R,P401,1,6POS,Harwin Inc.,
+15,"Header, 6-PIN, 3A, 2.54MM",M20-9980346,P505 P506 P507 P508 P509 P510,6,6POS,Harwin Inc,
+16,,TH_1POS_2.4MM_M2,P102 P103 P104 P105,4,1POS,CUSTOM,
+17,,TH_2POS_2.54MM,P101 P201 P202 P203 P516 P517 P518 P519,8,2POS,CUSTOM,
+18,"Logic Gate, 2CH Inverting, SCHMITT, SC-70-6",NC7WZ14P6X,Q509,1,2CH-Inverting,ON Semiconductor,
+19,"Logic Gate, Non-Inverting, Push-pull, SOT-23-5",SN74LVC1G17DBVR,Q301 Q302 Q303 Q304 Q305 Q501 Q502 Q503 Q504 Q505 Q506 Q507,12,NON-INVERTING,Texas Instruments,296-11933-1-ND
+20,"Optocoupler, Open Collector, 5kV, Transistor, SMD-4 Gull WIng",TPC817S1D,Q201 Q202 Q203,3,TPC817S1D,Taiwan Semiconductor Corporation,TPC817S1DRAGCT-ND
+21,"Resistor, 100k, 1%, 1/10W, 0603",CPF0603F100KC1,R501 R502 R503 R504,4,100k,TE Connectivity Passive Product,
+22,"Resistor, 10k, 0.1%, 1/10W, 0603",ERA-3AEB103V,R101 R301 R302 R303 R304 R305 R505 R506 R507 R508,10,10k,Panasonic Electronic Components,
+23,"Resistor, 100R, 1%, 1/10W, 0603",RC0603FR-07100RL,R204 R205 R206,3,100R,Susumu,
+24,"Resistor, 1k, 0.5%, 1/16W, 0603",RR0816P-102-D,R201 R202 R203,3,1k,Susumu,
+25,"IC, Microstepping Driver, 35V/2A, TH",A4988_BO,U501 U502 U503 U504,4,Microstepping Driver,Allegro,
+26,"MCU, ATMEGA328P-AU, 1V8-5V, TQFP-32",ATMEGA328P-AU,U101,1,MCU,Atmega,
+27,"IC, Isolated Converter, 5V/1W, 1kV,",R1SX-0505-R,U201,1,Isolated Converter,Recom Power,
+28,"Crystal, 16MHz, HCMOS/TTL,4_SMD",CB3-3I-16M0000,Y101,1,16MHz,CTS-Frequency Controls,
